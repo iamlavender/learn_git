@@ -1,4 +1,12 @@
 function a(){
 var s = 1; 
+A:wq
+
+B
+B
+A
+B
+C
+
 return s;
 }
